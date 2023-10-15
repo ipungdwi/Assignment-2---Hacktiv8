@@ -1,6 +1,6 @@
 # Judul Proyek
 
-Deskripsi singkat proyek.
+Assignment 2 - Rest API
 
 ## Gambar
 
@@ -21,24 +21,17 @@ Deskripsi singkat proyek.
 
 ## Instalasi
 
-"Server ini dapat diinstal dengan mudah menggunakan manajer paket Node.js seperti npm. Aplikasi ini dapat dijalankan dengan bantuan nodemon, sehingga memungkinkan pengembang untuk secara otomatis memuat ulang server setiap kali ada perubahan dalam kode, menyederhanakan proses pengembangan dan pengujian."
+1. Pastikan Node.js dan npm terinstal di komputer Anda.
+2. Salin repositori ini ke komputer Anda.
+3. Buka terminal dan navigasikan ke direktori proyek.
+4. Instal dependensi dengan menjalankan perintah `npm install`.
+5. Jalankan server dengan perintah `nodemon`.
 
 ## Penggunaan
 
-Berikan contoh cara menggunakan proyek atau library Anda. Ini bisa berupa contoh kode atau langkah-langkah untuk menjalankan aplikasi.
+1. Setelah server berjalan, buka browser dan kunjungi [http://localhost:3000/](http://localhost:3000/).
+2. Gunakan username dan password yang ada dalam file users.json untuk login.
+3. Setelah login berhasil, Anda akan menerima token autentikasi.
+4. Gunakan token tersebut untuk mengakses endpoint seperti /data dan /teachers menggunakan perangkat lunak Postman atau alat serupa untuk melakukan permintaan HTTP.
 
-## Kontribusi
-
-Jelaskan bagaimana orang lain dapat berkontribusi pada proyek Anda. Cantumkan panduan kontribusi, aturan pengiriman pull request, dan sebagainya.
-
-## Lisensi
-
-Tentukan jenis lisensi yang Anda gunakan untuk proyek Anda. Jika Anda tidak yakin, Anda dapat menggunakan alat pemilih lisensi online untuk membantu Anda memilih lisensi yang sesuai.
-
-## Kontak
-
-Jika Anda ingin orang lain menghubungi Anda terkait proyek, berikan informasi kontak Anda di bagian ini.
-
----
-
-© Tahun Perolehan, Nama Pemegang Hak Cipta
+© Tahun 2023 Ipung Dwi Ari Saputra

@@ -4,7 +4,10 @@ Deskripsi singkat proyek.
 
 ## Gambar
 
-![Logo](https://drive.google.com/file/d/1e0tm2EnxNG2JokbV4c1jUObl-1Z3AdT-/view?usp=drive_link)
+![Postman Test](/images/postman.png)
+![Login Test](/images/login.png)
+![Dashboard Test](/images/dashboard.png)
+
 
 ## Deskripsi
 

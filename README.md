@@ -4,9 +4,9 @@ Deskripsi singkat proyek.
 
 ## Gambar
 
-![Postman Test](/images/postman.png)
-![Login Test](/images/login.png)
-![Dashboard Test](/images/dashboard.png)
+![Postman Test](/image/postman.png)
+![Login Test](/image/login.png)
+![Dashboard Test](/image/dashboard.png)
 
 
 ## Deskripsi

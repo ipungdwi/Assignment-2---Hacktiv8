@@ -4,7 +4,7 @@ Deskripsi singkat proyek.
 
 ## Gambar
 
-Jika ada, tambahkan gambar proyek Anda di sini.
+![Logo](https://drive.google.com/file/d/1e0tm2EnxNG2JokbV4c1jUObl-1Z3AdT-/view?usp=drive_link)
 
 ## Deskripsi
 

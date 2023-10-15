@@ -11,17 +11,17 @@ Deskripsi singkat proyek.
 
 ## Deskripsi
 
-Tulis deskripsi lengkap tentang proyek Anda di bagian ini. Jelaskan apa yang dilakukan proyek Anda, tujuan dari proyek tersebut, dan mengapa proyek tersebut penting.
+"Server Rest API ini dibangun menggunakan Express.js dengan integrasi JSON Web Token (JWT). API ini menyediakan layanan autentikasi pengguna dengan fitur login, serta akses ke data pengguna dan data pengajar. Untuk mengakses data pengguna dan pengajar, pengguna diharuskan untuk melakukan login terlebih dahulu guna memperoleh token autentikasi yang valid."
 
 ## Fitur
 
-- Fitur 1
-- Fitur 2
-- Fitur 3
+- APi Login
+- Get Data User
+- Get Data Teachers
 
 ## Instalasi
 
-Berikan petunjuk tentang cara menginstal proyek ini. Termasuk prasyarat apa pun yang diperlukan sebelum instalasi.
+"Server ini dapat diinstal dengan mudah menggunakan manajer paket Node.js seperti npm. Aplikasi ini dapat dijalankan dengan bantuan nodemon, sehingga memungkinkan pengembang untuk secara otomatis memuat ulang server setiap kali ada perubahan dalam kode, menyederhanakan proses pengembangan dan pengujian."
 
 ## Penggunaan
 
